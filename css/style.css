@@ -1,3 +1,5 @@
+
+
 header{
   background-image: url(../img/pattern.png);
   background-color: #4EA0FF;
@@ -21,4 +23,38 @@ header{
 .booleaner{
   color: #21A8E5;
   text-decoration:underline
+}
+
+.description{
+  font-style:italic;
+}
+
+.yellow{
+  background-color: yellow;
+}
+
+.thead{
+  font-style: italic;
+  background-color:#1FA9E5;
+  color: white;
+}
+
+.interest{
+  color: grey;
+  font-style: italic;
+}
+
+.img1{
+  background-image:url(../img/monitor.jpg);
+width: 150px;
+height: 150px;
+font-style: italic;
+color: white;
+}
+.img2{
+  background-image: url(../img/graph.jpg);
+  width: 150px;
+height: 150px;
+color: white;
+font-style:italic
 }
